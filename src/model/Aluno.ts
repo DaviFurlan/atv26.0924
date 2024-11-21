@@ -283,7 +283,7 @@ export class Aluno {
             console.log('Erro ao cadastrar o aluno. Verifique os logs para mais detalhes.');
             // imprime o erro no console
             console.log(error);
-            // retorno um valor falso
+            // retorno um valor falso\
             return false;
         }
     }
